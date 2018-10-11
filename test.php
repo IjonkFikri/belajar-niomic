@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php  if ($s==$b) {
-        # code...
+        
     } ?>
 </body>
 </html>
